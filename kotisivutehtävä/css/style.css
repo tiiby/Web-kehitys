@@ -128,3 +128,7 @@ footer ul {
 footer li {
     color: rgb(11, 11, 113);
 }
+
+footer img {
+    width: 50%;
+}

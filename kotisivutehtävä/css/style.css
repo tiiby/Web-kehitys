@@ -76,6 +76,7 @@ figcaption {
     text-align: center;
     padding: 2rem;
     gap: 1rem;
+    justify-content: center;
 }
 
 #tuotteet h2 {
@@ -92,7 +93,6 @@ article {
     box-sizing: border-box;
     background-color: rgb(221, 230, 230);
     padding: 1rem;
-    align-items: stretch;
 }
 
 figure {

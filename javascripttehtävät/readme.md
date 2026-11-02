@@ -2,7 +2,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+[https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/moduulit%201%20ja%202/]
 
 Tehdyt tehtävät:
 
@@ -24,7 +24,7 @@ Tehdyt tehtävät:
 
 Tehdyt tehtävät:
 
-- Tehtävä 1: 
+- Tehtävä 1: 2p
 - Tehtävä 2: 
 - Tehtävä 3: 
 

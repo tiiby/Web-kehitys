@@ -1,17 +1,18 @@
-let number, name;
-number = 153;
-name = "Anna";
-console.log(number);
-console.log(name);
-number = -17;
-name = "Pekka";
-console.log(number);
-console.log(name);
+"use strict";
 
-for (;;) {
-  const name = prompt("Enter a name");
-  if (name === "") {
-    break;
-  }
-  console.log(name);
+let luku = 0;
+let lukulista = [];
+
+for ( let i = 0; i < 5; i++) {
+    luku = parseInt(prompt("Anna luku"));
+    lukulista.push(luku);
 }
+
+let htmlStr = "";
+
+for ( let i = lukulista.length - 1; i >= 0; i--) {
+  luku = lukulista[i];
+  htmlStr = htmlStr + "<li>" + String(luku) + "</li>";
+}
+
+document.querySelector("#luvut").innerHTML = htmlStr;

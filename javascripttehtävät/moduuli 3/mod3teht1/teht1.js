@@ -1,6 +1,7 @@
 // Kirjoita ohjelma, joka kysyy käyttäjältä viisi lukua ja tulostaa ne päinvastaisessa järjestyksessä kuin käyttäjä ne syötti
 // (ei siis suuruusjärjestyksessä).
 // Tulosta tulos konsoliin.
+"use strict"
 
 const numerot = [];
 

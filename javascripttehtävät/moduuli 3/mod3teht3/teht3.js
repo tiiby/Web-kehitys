@@ -4,11 +4,20 @@
 
 const koirat = [];
 
-for (let i = 1; i <= 6; i++) {
+for (let i = 0; i <= 6; i++) {
     let koira = prompt("Anna koiran nimi")
     koirat.push(koira);
 }
 
 koirat.sort()
 koirat.reverse()
+
+let htmlStr = "";
+
+for ( let i = 0; i < koirat.length; i++) {
+  let koira = koirat[i];
+  htmlStr = htmlStr + "<li>" + koira + "</li>";
+}
+
+document.querySelector("#koiralista").innerHTML = htmlStr;
 

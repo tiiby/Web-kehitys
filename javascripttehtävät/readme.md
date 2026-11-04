@@ -20,20 +20,24 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+[https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/moduuli%203/]
 
 Tehdyt tehtävät:
 
 - Tehtävä 1: 2p
-- Tehtävä 2: 
-- Tehtävä 3: 
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 6: 2p
 
-**Yhteensä p**
+**Yhteensä 10 p**
+
+Tehtävä 8 tehtiin tunnilla opettajan kanssa vähän eri tavalla kuin ohjeessa.
 
 --------------------------------------
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+[https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/moduuli%204/]
 
 Tehdyt tehtävät:
 
@@ -46,7 +50,7 @@ Tehdyt tehtävät:
 --------------------------------------
 ### JS-moduuli 5
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]
+[https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/moduuli%205/]
 
 Tehdyt tehtävät:
 

@@ -41,11 +41,13 @@ Tehtävä 8 tehtiin tunnilla opettajan kanssa vähän eri tavalla kuin ohjeessa.
 
 Tehdyt tehtävät:
 
-- Tehtävä 1: 
-- Tehtävä 2: 
-- Tehtävä 3: 
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 7: 2p
+- Tehtävä 10: 2p
 
-**Yhteensä p**
+**Yhteensä 10 p**
 
 --------------------------------------
 ### JS-moduuli 5

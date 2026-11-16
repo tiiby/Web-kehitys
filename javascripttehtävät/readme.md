@@ -50,6 +50,16 @@ Tehdyt tehtävät:
 **Yhteensä 10 p**
 
 --------------------------------------
+### Python Flask
+
+[https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/Pyhton%20Flask%20-teht%c3%a4v%c3%a4t/]
+
+Tehdyt tehtävät:
+- Tehtävä 2: 10p
+
+**Yhteensä 10 p**
+
+--------------------------------------
 ### JS-moduuli 5
 
 [https://users.metropolia.fi/~tiiaby/javascriptteht%c3%a4v%c3%a4t/moduuli%205/]
